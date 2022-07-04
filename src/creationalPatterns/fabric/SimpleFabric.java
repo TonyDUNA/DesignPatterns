@@ -1,4 +1,4 @@
-package creationalPatterns.fabric.fabric;
+package creationalPatterns.fabric;
 
 /* Фабрика — это общая концепция проектирования функций, методов и
 классов, когда какая-то одна часть программы отвечает за создание

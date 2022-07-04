@@ -1,4 +1,4 @@
-package creationalPatterns.fabric.prototype;
+package creationalPatterns.prototype;
 
 /*Прототип — это порождающий паттерн, позволяющий создавать новые
 объекты на основе имеющегося экземпляра (прототипа).

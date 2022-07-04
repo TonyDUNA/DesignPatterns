@@ -1,4 +1,4 @@
-package creationalPatterns.fabric.Singelton;
+package creationalPatterns.Singelton;
 
 /*Одиночка (Singleton) гарантирует, что у класса есть только один
 экземпляр, и предоставляет к нему глобальную точку доступа.

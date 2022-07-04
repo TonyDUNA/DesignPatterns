@@ -1,4 +1,4 @@
-package creationalPatterns.fabric.fabric;
+package creationalPatterns.fabric;
 
 
 /*Абстрактная фабрика — порождающий шаблон проектирования, предоставляет интерфейс для создания семейств взаимосвязанных

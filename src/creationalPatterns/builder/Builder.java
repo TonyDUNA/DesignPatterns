@@ -1,4 +1,4 @@
-package creationalPatterns.fabric.builder;
+package creationalPatterns.builder;
 
 /*Строитель (Builder) — это паттерн проектирования, который позволяет
 поэтапно создавать сложные объекты с помощью четко определенной
