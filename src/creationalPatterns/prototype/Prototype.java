@@ -164,6 +164,7 @@ class Person3 implements Cloneable {
     private String name;
     private int age;
     public Person3() {}
+    // конструктор класса Person, принимающий на вход объект класса Person, и из полученного объекта заполняет поля
     public Person3(Person3 person) {
         if (person != null) {
             this.name = person.name;
@@ -187,6 +188,7 @@ class Person3 implements Cloneable {
         this.age = age;
     }
 
+    // а в методе clone() передаем ему ссылку на самого себя
     @Override
     protected Person3 clone() throws CloneNotSupportedException {
         return new Person3(this);
